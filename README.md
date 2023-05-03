@@ -1,0 +1,1 @@
+# Possibility-of-purchasing-a-product-based-on-customer-s-economical-capabilities
